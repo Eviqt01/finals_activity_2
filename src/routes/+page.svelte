@@ -13,7 +13,7 @@
 >
 	<h1 class="text-2xl font-bold font-sans text-center">Random Joke <br /> Generator</h1>
 	<section
-		class="p-10 bg-black rounded-md border shadow flex flex-col items-center gap-4 sm:min-w-100 sm:w-50"
+		class="p-10 bg-black rounded-md border shadow flex flex-col items-center gap-4 min-w-100 w-50 sm:min-w-100 sm:w-50"
 	>
 		<span class=" text-5xl">😂</span>
 		<span class="text-white text-center font-sans">{joke}</span>
