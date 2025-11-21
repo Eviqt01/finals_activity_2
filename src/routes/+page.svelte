@@ -26,7 +26,7 @@
 	</section>
 </main>
 <footer class="bg-gray-300 flex flex-col items-center gap-5 p-10">
-	<h1 class="text-3xl text-gray-700 font-bold">Midterm Activity 2</h1>
+	<h1 class="text-3xl text-gray-700 font-bold">Finals Activity 2</h1>
 	<div class="flex flex-row gap-2">
 		<span class="bg-gray-800 text-white p-3 rounded-md">Eviota, Jhun Jay Mars</span>
 		<span class="bg-gray-800 text-white p-3 rounded-md">Genon, Christian Owen</span>
